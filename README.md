@@ -11,4 +11,4 @@ Sistema de gestión de tienda desarrollado como proyecto intermodular para el ci
 ## Instrucciones de instalación
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/proyecto-intermodular-dam-2025.git
+   git clone https://github.com/JosepG05/proyecto-intermodular-dam-2025.git
